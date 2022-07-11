@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Welcome � </b></h1>
+<h1 align= "center"><b>Welcome </b></h1>
 
 ### **_Contact Details_**
 
@@ -24,13 +24,13 @@
 
 <p align="center">
   
-- � Interested in contributing expertise in smart contract development and blockchain core development
+- Interested in contributing expertise in smart contract development and blockchain core development
 
-- � Love reading books on personal development & financial literacy.
+- Love reading books on personal development & financial literacy.
 
-- � Looking forward to more partnership with talents
+- Looking forward to more partnership with talents
 
-- � 2022 Goals: Contribute more to building web3 infra over the internet.
+- 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
 
