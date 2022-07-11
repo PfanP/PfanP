@@ -72,12 +72,12 @@
     <tr>
         <td>
             <a href="https://www.alphanodes.finance/">
-                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/grapefinance.png?raw=true" width="200">
+                <img src="https://github.com/PfanP/PfanP/blob/main/alphanodes.png?raw=true" width="200">
             </a>
         </td>          
         <td>
             <a href="https://getaurox.com/">
-                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/arcnftmarketplace.png" width="200">
+                <img src="https://github.com/PfanP/PfanP/blob/main/aurox.png" width="200">
             </a>
         </td>   
     </tr>
@@ -95,12 +95,12 @@
     <tr>
         <td>
             <a href="https://makiswap.com/">
-                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/fastswapapp.png" width="200">
+                <img src="https://github.com/PfanP/PfanP/blob/main/makiswap.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://pancakeswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+                <img src="https://github.com/PfanP/PfanP/blob/main/PCS.png?raw=true" width="200">
             </a>
         </td>   
     </tr>  
@@ -152,7 +152,7 @@
     <tr>
         <td>
             <a href="https://looksrare.org/">
-                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/arcnftmarketplace.png" width="200">
+                <img src="https://github.com/PfanP/PfanP/blob/main/LOOKS.png" width="200">
             </a>
         </td>        
         <td>
