@@ -68,9 +68,8 @@
 <table>
 <thead align="center">
         <tr>
-            <td>Grape Finance</td>
-            <td>Arc Market</td>
-            <td>Fastswap Finance</td>  
+            <td>Alpha Nodes</td>
+            <td>Aurox Terminal</td>
         </tr>
       </thead>
     <tr>
