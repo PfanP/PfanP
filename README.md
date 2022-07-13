@@ -21,7 +21,7 @@
 
 <p align="center">
   
-- Interested in contributing expertise in smart contract development and blockchain core development
+- Interested in contributing smart contract development and blockchain core development
 
 - Love reading books on personal development & financial literacy.
 
