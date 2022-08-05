@@ -3,14 +3,8 @@
 ### **_Contact Details_**
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/0x-khanh-021b491a9/">
-    <img src="https://img.shields.io/badge/linkedin me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://t.me/throwkick">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:duykhanh9242@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
