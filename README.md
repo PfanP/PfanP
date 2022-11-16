@@ -28,10 +28,9 @@
 
 - Solidity
 - Cosmwasm
-- Rust for Solana
-- Javascript for front-end development
-- Subgraph
 - Golang for Cosmos
+- Rust for Solana
+- Subgraph
 
 ## Experience
 
