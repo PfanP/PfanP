@@ -1,7 +1,5 @@
 <h1 align= "center"><b>Welcome </b></h1>
 
-### **_Contact Details_**
-
 ## About Me
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and NFT utility <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
